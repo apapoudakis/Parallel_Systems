@@ -1,0 +1,3 @@
+[submodule "mpi-Knn"]
+	path = mpi-Knn
+	url = https://github.com/papoudaa/mpi-Knn.git
