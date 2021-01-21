@@ -1,3 +1,6 @@
 [submodule "mpi-Knn"]
 	path = mpi-Knn
 	url = https://github.com/papoudaa/mpi-Knn.git
+[submodule "PageRank"]
+	path = PageRank
+	url = https://github.com/papoudaa/PageRank.git
