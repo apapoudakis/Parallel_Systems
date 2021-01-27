@@ -4,6 +4,6 @@ This repo contains three modules for the projects of the course "Parallel and Di
 
 - MeanShift using CUDA  
 
-- Pagerank using OpenMP
+- PageRank using OpenMP
 
 - KNN using Message Passing Interface (MPI)
